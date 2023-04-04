@@ -1,7 +1,7 @@
 # IBM-Quantum-Fall-Challenge-2022
 This is my solution of the challenge. The challenge consists of 4 labs
 
-## [Lab 1:]()  
+## [Lab 1:](https://github.com/Soumya0307/IBM-Quantum-Fall-Challenge-2022/blob/main/lab1.ipynb)  
 Table of Contents  
 Story  
 Part I: Introduction to Primitives  
@@ -16,7 +16,7 @@ Part V: Example Using Both Primitives
 Exercise 5: apply noise mitigation techniques  
 Exercise 6: verify what the message is
 
-## Lab 2  
+## [Lab 2:](https://github.com/Soumya0307/IBM-Quantum-Fall-Challenge-2022/blob/main/lab2.ipynb)  
 Story  
 Part I: Data Encoding and Probability Distribution  
 Exercise 1: Parameterized Circuit  
@@ -28,7 +28,7 @@ Part IV: Quantum Kernels and Quantum Support Vector Machines
 Exercise 4: Quantum Kernel with Sampler  
 Exercise 5: Recognize Unknown Bitstring  
 
-## Lab 3  
+## [Lab 3:](https://github.com/Soumya0307/IBM-Quantum-Fall-Challenge-2022/blob/main/lab3-runtime-fix.ipynb)  
 Story  
 Part I: Formulating the Traveling Salesman Problem  
 Exercise 1: create a graph to represent our debris configuration  
@@ -42,7 +42,7 @@ Exercise 7: build up a Sampler routine with the optimal circuit and the list of 
 Exercise 8: build up a circuit to accomodate all the constraints  
 Exercise 9: find a TSP solution for a 4 node graph problem  
 
-## Lab 4  
+## [Lab 4:](https://github.com/Soumya0307/IBM-Quantum-Fall-Challenge-2022/blob/main/lab4.ipynb)  
 Story  
 Introduction: Special Chemistry of Interstellar Molecules  
 VQE Syllabi  
